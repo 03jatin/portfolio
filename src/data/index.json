@@ -1,0 +1,101 @@
+{
+    "skills":[
+        {
+            "id":"1",
+            "src":"./images/html.png",
+            "title":"Html",
+            "description":"HTML stands for HyperText Markup Language. It is used to design web pages using a markup language. HTML is a combination of Hypertext and Markup language. "
+
+        },
+        {
+            "id":"2",
+            "src":"./images/css.png",
+            "title":"CSS",
+            "description":"Cascading Style Sheets, fondly referred to as CSS, is a simply designed language intended to simplify the process of making web pages presentable. CSS allows you to apply styles to web pages."
+
+        },
+        {
+            "id":"3",
+            "src":"./images/javascript.png",
+            "title":"JavaScript",
+            "description":"JavaScript is a lightweight, cross-platform, single-threaded, and interpreted compiled programming language. It is also known as the scripting language for webpages."
+
+        },
+        {
+            "id":"4",
+            "src":"./images/react.png",
+            "title":"React",
+            "description":"React is a free and open-source JavaScript library for building user interfaces based on components. It is used to build single-page applications and can also be used for mobile, desktop, and virtual reality apps"
+
+        },
+        {
+            "id":"5",
+            "src":"./images/redux.png",
+            "title":"Redux",
+            "description":" React Redux is the official UI bindingsfor react Application. It is kept up-to-date with any API changes to ensure that your React components behave as expected. "
+
+        },
+        {
+            "id":"6",
+            "src":"./images/php.png",
+            "title":"PHP",
+            "description":"The term PHP is an acronym for PHP: Hypertext Preprocessor. PHP is a server-side scripting language designed specifically for web development."
+
+        },
+        {
+            "id":"7",
+            "src":"./images/mysql.png",
+            "title":"MySql",
+            "description":"MySQL is an open-source relational database management system (RDBMS)."
+
+        },
+        {
+            "id":"8",
+            "src":"./images/python.png",
+            "title":"Python ",
+            "description":"Python is a high-level, interpreted, and general-purpose dynamic programming language that focuses on code readability."
+
+        }
+    ],
+
+    "portfolio":[
+        {
+            "id":"1",
+            "src":"./images/portfolio1.png",
+            "title":"Animation website",
+            "description":"This is a Golf Playground Website where user have lots of options like:- Eating, Drinking, Playing user can select their slot. In this i have used animations HTML, CSS, JS."
+
+        },
+        {
+            "id":"2",
+            "src":"./images/portfolio2.png",
+            "title":"Travelling Site",
+            "description":"This is a Travelling Website. In this user can select their favourite destination and book their number of days. This website is made my using PHP"
+
+        },
+        {
+            "id":"3",
+            "src":"./images/portfolio3.png",
+            "title":"Cryptoverse",
+            "description":"This is a crypto Website where user can se real time rates of Bitcoin etc. in INR and USD. I have used React while doing this website"
+
+        },
+        {
+            "id":"4",
+            "src":"./images/portfolio4.png",
+            "title":"TwoGoodCo.",
+            "description":"This is a TWOGOODCO. clone. I have used HTML, CSS, JS while making this website."
+
+        },
+        {
+            "id":"5",
+            "src":"./images/portfolio5.png",
+            "title":"AmazonClone",
+            "description":"This is Amazon Cone with using React in this i have created cart page and checkout page."
+
+        }
+      
+    ]
+   
+    
+}
